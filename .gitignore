@@ -79,4 +79,7 @@ DownloadPartRequest.java
 service.jks
 application-prod.properties
 
+# admin script files
+*.aws-settings
+
 dcc-storage-client/deploy/
